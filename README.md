@@ -2,3 +2,5 @@
 
 Features
 Swift - Morm (Swift Micro-ORM) is a free library that you can add in to your project that will help you to create easy connection and object mapper.
+
+to install: $pip install swift-morm 
