@@ -4,11 +4,11 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="swift_morm",
-    version="0.0.1",
+    name="swift-morm",
+    version="0.1",
     author="Pedro Lins",
     author_email="paugustolins@gmail.com",
-    description="Morm is a simple object mapper for python",
+    description="Swift Morm is a simple object mapper for python",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/PdrLins/swift-morm",
