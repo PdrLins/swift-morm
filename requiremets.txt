@@ -13,7 +13,7 @@ injector==0.13.4
 ipgetter==0.7
 isort==4.3.4
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 jsonschema==2.6.0
 lazy-object-proxy==1.3.1
